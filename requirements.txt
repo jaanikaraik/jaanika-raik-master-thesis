@@ -1,0 +1,7 @@
+emcee
+numpy
+scipy
+matplotlib
+corner
+subprocess
+argparse
